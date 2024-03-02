@@ -11,6 +11,10 @@ Math Review (before beginning CS bachelor's degree)
   5. Integrated Math 2 - https://www.khanacademy.org/math/math2#math2-subject-challenge
   6. Integrated Math 3 - https://www.khanacademy.org/math/math3#math3-subject-challenge
 
+Trigonometry Concepts - Don't Memorize! Visualize! - https://www.youtube.com/watch?v=mhd9FXYdf4s&ab_channel=DennisDavis
+
+The essence of calculus - https://youtu.be/WUvTyaaNkzM
+
 Mathematics for Computer Science - MIT 6.042J Tutors - Tom leighton, Marter Van Dijk
 
 
